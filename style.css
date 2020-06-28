@@ -1,0 +1,30 @@
+.main{
+    border: 2px solid gray ;
+    width: 200px;
+    margin: 0 auto;
+}
+ 
+.result{
+    width: 96%;
+    background-color: gray;
+    color: white;
+}
+
+.clearBtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color:yellow;
+}
+
+.Btn{
+    width: 45px ;
+    background-color: turquoise;
+    margin: 1px;
+    
+}
+
+.B{
+    background-color: turquoise;
+    width: 98px;
+    margin-top: 5px;
+}
